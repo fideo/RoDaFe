@@ -1,4 +1,6 @@
 Hola este es un archivo de prueba
 Hola ahora estoy en la rama de Fede.
 
-Hola fideox, modificado por ipasoft.
+Hola fideox, modificado por ipasoft. <-- bien!!!
+
+Ahora lo modifico yo (Fede) y luego te voy a pedir que modifiques vos in hacer pull para que veas como maneja los conflictos git
