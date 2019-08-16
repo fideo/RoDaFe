@@ -7,7 +7,7 @@ Principales comandos
 
 
 ```
-git clone
+git clone ó  git init
 ```
 
 ```
