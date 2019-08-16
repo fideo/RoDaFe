@@ -1,4 +1,4 @@
-# RoDaFe
+﻿# RoDaFe
 Repositorio para practicar con Git en GitHub
 
 
@@ -11,7 +11,7 @@ Principales comandos
 
 
 ```
-git clone
+git clone ó  git init
 ```
 
 ```
@@ -33,4 +33,3 @@ git commit -m "..."
 ```
 git push [] []
 ```
-
