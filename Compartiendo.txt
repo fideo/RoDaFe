@@ -1,0 +1,19 @@
+Hola Danielo!!! 
+¿ves esto?
+
+Hola
+
+Esto lo estoy escrbiendo io
+
+
+FIDEO!
+
+
+
+UBUNTU BUDGIE
+
+Con esto instalar UBUNTU BUDGIE ;)
+
+sudo add-apt-repository ppa:budgie-remix/ppa
+sudo apt-get update
+sudo apt-get install budgie-desktop
